@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.egg-info/
+*.pyc
+.cache/
+.pytest_cache/
+.mypy_cache/
+.idea/
+.python-version
+.tox/
+MANIFEST
+dist/
+scratch/
+venv/
+.pypi-token
