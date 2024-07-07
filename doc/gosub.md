@@ -55,3 +55,6 @@ number + 1 is 21
 * [RETURN](return.md)
 * [FUNCTION](function.md)
 * [SUB](sub.md)
+* [GO TO](goto.md)
+* [ON ... GO TO](on_goto.md)
+* [ON ... GO SUB](on_gosub.md)

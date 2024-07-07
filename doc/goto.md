@@ -32,3 +32,5 @@ line 20, finishing the program.
 
 ## See also
 * [GO SUB](gosub.md)
+* [ON ... GO TO](on_goto.md)
+* [ON ... GO SUB](on_gosub.md)

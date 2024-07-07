@@ -63,7 +63,7 @@ Identifiers shown in bold are taken from the Sinclair BASIC (beware their meanin
 * **[INT](int.md)** **(function)**
 * **[INVERSE](inverse.md)** **(statement)**
 * [ITALIC](italic.md)
-* [LBOUND](lbound.md) **<function;>**
+* [LBOUND](lbound.md) **(function)**
 * **[LET](let.md)** **(statement)**
 * **[LEN](len.md)** **(function)**
 * **[LN](ln.md)** **(function)**
@@ -72,6 +72,8 @@ Identifiers shown in bold are taken from the Sinclair BASIC (beware their meanin
 * [MOD](operators.md#Arithmetic Operators) **(operator)**
 * **[NEXT](for.md)** **(statement)**
 * **[NOT](operators.md#NOT)** **(operator)**
+* **[ON ... GOTO](on_goto.md)** **(statement)**
+* **[ON ... GOSUB](on_gosub.md)** **(statement)**
 * **[OR](operators.md#OR)** **(operator)**
 * **[OVER](over.md)** **(statement)**
 * **[OUT](out.md)** **(statement)**
