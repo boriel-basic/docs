@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This repository has been archived.
+> The Wiki documentation is now integrated [into the compiler repository](https://github.com/boriel-basic/zxbasic/tree/main/docs).
+
 # Boriel Basic Documentation
 
 Welcome to the Boriel Basic documentation repository. This repository contains the documentation for the Boriel Basic compiler, an open-source project designed to compile BASIC code for the ZX Spectrum.
